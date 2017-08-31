@@ -1,0 +1,6 @@
+{
+  "preview": {
+	  "Digital Ocean": "http://192.241.157.212/bitcoin",
+	  "Project Index (static)": "https://{{domain}}/{{index}}"
+  }
+}
